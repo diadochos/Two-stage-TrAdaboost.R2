@@ -1,3 +1,8 @@
+
+Modified version of the following package:
+
+- Added LOOCV option to `fold`.
+
 # Two-stage TrAdaBoost.R2 algorithm from Pardoe's paper "Boosting for Regression Transfer (ICML 2010)"
 
 ## Description
